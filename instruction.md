@@ -71,7 +71,4 @@
 
 *git checkout branch_name* - **команда для перехода на другую ветку**
 
-**asdasdasd**
-**asdasd**
-***asdasd***
-***asd***
+![image git](123.png)
