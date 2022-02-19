@@ -64,3 +64,9 @@
 <https://yandex.ru/images/search?from=tabbar&source-serpid=ZG4zjH8w9Pae96pdP58GSQ&text=%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4&nl=1&source=morda&pos=2&rpt=simage&img_url=https%3A%2F%2Fcs.pikabu.ru%2Fpost_img%2Fbig%2F2013%2F11%2F29%2F7%2F1385720670_1067174999.jpg>
 
 строчка спецыальноо для добавления коммита
+
+*git branch* - **команда для вывода списка веток**
+
+*git branch branch_name* - **команда для создания новой ветки**
+
+*git checkout branch_name* - **команда для перехода на другую ветку**
